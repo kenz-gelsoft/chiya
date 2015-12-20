@@ -31,8 +31,8 @@ msgid "Web Browser"
 msgstr "Веб-браузер"
 
 #: ../data/midori.desktop.in.h:3
-msgid "Midori Web Browser"
-msgstr "Веб-браузер Midori"
+msgid "Chiya Web Browser"
+msgstr "Веб-браузер Chiya"
 
 #: ../data/midori.desktop.in.h:4
 msgid "Browse the Web"

@@ -28,8 +28,8 @@ msgid "Web Browser"
 msgstr "Tīmekļa pārlūks"
 
 #: ../data/midori.desktop.in.h:3
-msgid "Midori Web Browser"
-msgstr "Midori tīmekļa pārlūks"
+msgid "Chiya Web Browser"
+msgstr "Chiya tīmekļa pārlūks"
 
 #: ../data/midori.desktop.in.h:4
 msgid "Browse the Web"

@@ -32,8 +32,8 @@ msgid "Web Browser"
 msgstr "Internetový prehliadač"
 
 #: ../data/midori.desktop.in.h:3
-msgid "Midori Web Browser"
-msgstr "Midori internetový prehliadač"
+msgid "Chiya Web Browser"
+msgstr "Chiya internetový prehliadač"
 
 #: ../data/midori.desktop.in.h:4
 msgid "Browse the Web"

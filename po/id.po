@@ -29,8 +29,8 @@ msgid "Web Browser"
 msgstr "Peramban Web"
 
 #: ../data/midori.desktop.in.h:3
-msgid "Midori Web Browser"
-msgstr "Peramban Web Midori"
+msgid "Chiya Web Browser"
+msgstr "Peramban Web Chiya"
 
 #: ../data/midori.desktop.in.h:4
 msgid "Browse the Web"

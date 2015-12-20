@@ -29,7 +29,7 @@ msgid "Web Browser"
 msgstr "Internet preglednik"
 
 #: ../data/midori.desktop.in.h:3
-msgid "Midori Web Browser"
+msgid "Chiya Web Browser"
 msgstr ""
 
 #: ../data/midori.desktop.in.h:4

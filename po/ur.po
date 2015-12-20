@@ -28,8 +28,8 @@ msgid "Web Browser"
 msgstr "ویب براؤزر"
 
 #: ../data/midori.desktop.in.h:3
-msgid "Midori Web Browser"
-msgstr "مادورا ویب براؤزر"
+msgid "Chiya Web Browser"
+msgstr "Chiya Web Browser"
 
 #: ../data/midori.desktop.in.h:4
 msgid "Browse the Web"

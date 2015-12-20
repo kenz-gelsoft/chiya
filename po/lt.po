@@ -33,8 +33,8 @@ msgid "Web Browser"
 msgstr "Žiniatinklio naršyklė"
 
 #: ../data/midori.desktop.in.h:3
-msgid "Midori Web Browser"
-msgstr "Interneto naršyklė Midori"
+msgid "Chiya Web Browser"
+msgstr "Interneto naršyklė Chiya"
 
 #: ../data/midori.desktop.in.h:4
 msgid "Browse the Web"

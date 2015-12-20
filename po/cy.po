@@ -29,8 +29,8 @@ msgid "Web Browser"
 msgstr "Porwr Gwe"
 
 #: ../data/midori.desktop.in.h:3
-msgid "Midori Web Browser"
-msgstr "Midori Porwr Gwe"
+msgid "Chiya Web Browser"
+msgstr "Chiya Porwr Gwe"
 
 #: ../data/midori.desktop.in.h:4
 msgid "Browse the Web"

@@ -29,8 +29,8 @@ msgid "Web Browser"
 msgstr "Retumilo"
 
 #: ../data/midori.desktop.in.h:3
-msgid "Midori Web Browser"
-msgstr "Retumilo Midori"
+msgid "Chiya Web Browser"
+msgstr "Retumilo Chiya"
 
 #: ../data/midori.desktop.in.h:4
 msgid "Browse the Web"

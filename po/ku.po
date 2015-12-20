@@ -28,8 +28,8 @@ msgid "Web Browser"
 msgstr "Web Gerok"
 
 #: ../data/midori.desktop.in.h:3
-msgid "Midori Web Browser"
-msgstr "Midori Web Gerok"
+msgid "Chiya Web Browser"
+msgstr "Chiya Web Gerok"
 
 #: ../data/midori.desktop.in.h:4
 msgid "Browse the Web"

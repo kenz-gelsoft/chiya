@@ -28,8 +28,8 @@ msgid "Web Browser"
 msgstr "Nettlesar"
 
 #: ../data/midori.desktop.in.h:3
-msgid "Midori Web Browser"
-msgstr "Midori Nettlesar"
+msgid "Chiya Web Browser"
+msgstr "Chiya Nettlesar"
 
 #: ../data/midori.desktop.in.h:4
 msgid "Browse the Web"

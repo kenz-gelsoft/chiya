@@ -30,8 +30,8 @@ msgid "Web Browser"
 msgstr "Webböngésző"
 
 #: ../data/midori.desktop.in.h:3
-msgid "Midori Web Browser"
-msgstr "Midori webböngésző"
+msgid "Chiya Web Browser"
+msgstr "Chiya webböngésző"
 
 #: ../data/midori.desktop.in.h:4
 msgid "Browse the Web"

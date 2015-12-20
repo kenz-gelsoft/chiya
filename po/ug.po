@@ -29,8 +29,8 @@ msgid "Web Browser"
 msgstr "توركۆرگۈ"
 
 #: ../data/midori.desktop.in.h:3
-msgid "Midori Web Browser"
-msgstr "مىدورى(Midori) توركۆرگۈ"
+msgid "Chiya Web Browser"
+msgstr "مىدورى(Chiya) توركۆرگۈ"
 
 #: ../data/midori.desktop.in.h:4
 msgid "Browse the Web"
