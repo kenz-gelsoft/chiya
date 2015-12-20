@@ -57,8 +57,8 @@ msgid "New Private Browsing Window"
 msgstr "Νέο Παράθυρο Ιδιωτικής Περιήγησης"
 
 #: ../data/midori-private.desktop.in.h:1
-msgid "Midori Private Browsing"
-msgstr "Ιδιωτική περιήγηση Midori"
+msgid "Chiya Private Browsing"
+msgstr "Ιδιωτική περιήγηση Chiya"
 
 #: ../data/midori-private.desktop.in.h:2 ../extensions/about.vala:176
 msgid "Private Browsing"

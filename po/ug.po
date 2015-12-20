@@ -53,8 +53,8 @@ msgid "New Private Browsing Window"
 msgstr "يېڭى شەخسىي كۆرۈش كۆزنىكى"
 
 #: ../data/midori-private.desktop.in.h:1
-msgid "Midori Private Browsing"
-msgstr "مىدورى(Midori) شەخسىي كۆرۈش"
+msgid "Chiya Private Browsing"
+msgstr "مىدورى(Chiya) شەخسىي كۆرۈش"
 
 #: ../data/midori-private.desktop.in.h:2 ../extensions/about.vala:176
 msgid "Private Browsing"

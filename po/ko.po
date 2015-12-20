@@ -64,8 +64,8 @@ msgid "New Private Browsing Window"
 msgstr "새 사생활 보호 모드 창"
 
 #: ../data/midori-private.desktop.in.h:1
-msgid "Midori Private Browsing"
-msgstr "미도리 개인 정보 보호 모드"
+msgid "Chiya Private Browsing"
+msgstr "Chiya Private Browsing"
 
 #: ../data/midori-private.desktop.in.h:2 ../extensions/about.vala:176
 msgid "Private Browsing"

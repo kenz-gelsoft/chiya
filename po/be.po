@@ -53,8 +53,8 @@ msgid "New Private Browsing Window"
 msgstr "Акно прыватнага аглядання"
 
 #: ../data/midori-private.desktop.in.h:1
-msgid "Midori Private Browsing"
-msgstr "Midori (Прыватнае агляданне)"
+msgid "Chiya Private Browsing"
+msgstr "Chiya (Прыватнае агляданне)"
 
 #: ../data/midori-private.desktop.in.h:2 ../extensions/about.vala:176
 msgid "Private Browsing"

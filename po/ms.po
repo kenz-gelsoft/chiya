@@ -52,8 +52,8 @@ msgid "New Private Browsing Window"
 msgstr "Tetingkap Pelayar Peribadi Baru"
 
 #: ../data/midori-private.desktop.in.h:1
-msgid "Midori Private Browsing"
-msgstr "Pelayar Peribadi Midori"
+msgid "Chiya Private Browsing"
+msgstr "Pelayar Peribadi Chiya"
 
 #: ../data/midori-private.desktop.in.h:2 ../extensions/about.vala:176
 msgid "Private Browsing"

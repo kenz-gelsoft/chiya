@@ -53,8 +53,8 @@ msgid "New Private Browsing Window"
 msgstr "Uusi yksityisen selauksen ikkuna"
 
 #: ../data/midori-private.desktop.in.h:1
-msgid "Midori Private Browsing"
-msgstr "Midori-yksityisselaus"
+msgid "Chiya Private Browsing"
+msgstr "Chiya-yksityisselaus"
 
 #: ../data/midori-private.desktop.in.h:2 ../extensions/about.vala:176
 msgid "Private Browsing"

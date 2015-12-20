@@ -59,8 +59,8 @@ msgid "New Private Browsing Window"
 msgstr "Nouvelle fenêtre de navigation privée"
 
 #: ../data/midori-private.desktop.in.h:1
-msgid "Midori Private Browsing"
-msgstr "Midori (Navigation privée)"
+msgid "Chiya Private Browsing"
+msgstr "Chiya (Navigation privée)"
 
 #: ../data/midori-private.desktop.in.h:2 ../extensions/about.vala:176
 msgid "Private Browsing"
