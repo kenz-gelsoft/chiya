@@ -15,7 +15,7 @@ namespace Midori {
         public Gtk.Widget? toolbar { get {
             if (_toolbar == null) {
 #if HAVE_GTK3
-                if (strcmp (Environment.get_variable ("GTK_CSD"), "1") == 0) {
+                if (strcmp (Environment.get_variable ("GTK_CSD"), "0") != 0) {
                     var toolbar = new Gtk.HeaderBar ();
                     toolbar.show_close_button = true;
                     toolbar.show ();
