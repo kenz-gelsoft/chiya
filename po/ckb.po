@@ -20,8 +20,8 @@ msgstr ""
 
 #: ../data/midori.desktop.in.h:1 ../midori/main.c:142
 #: ../midori/midori-websettings.c:231
-msgid "Midori"
-msgstr "میدۆری"
+msgid "Chiya"
+msgstr "Chiya"
 
 #: ../data/midori.desktop.in.h:2
 msgid "Web Browser"

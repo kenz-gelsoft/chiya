@@ -228,7 +228,7 @@ midori_identity_get_type (void)
     {
         static const GEnumValue values[] = {
          { MIDORI_IDENT_MIDORI, "MIDORI_IDENT_MIDORI", N_("_Automatic") },
-         { MIDORI_IDENT_GENUINE, "MIDORI_IDENT_GENUINE", N_("Midori") },
+         { MIDORI_IDENT_GENUINE, "MIDORI_IDENT_GENUINE", N_("Chiya") },
          { MIDORI_IDENT_CHROME, "MIDORI_IDENT_CHROME", N_("Chrome") },
          { MIDORI_IDENT_SAFARI, "MIDORI_IDENT_SAFARI", N_("Safari") },
          { MIDORI_IDENT_IPHONE, "MIDORI_IDENT_IPHONE", N_("iPhone") },

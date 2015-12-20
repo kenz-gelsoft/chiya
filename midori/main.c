@@ -139,7 +139,7 @@ main (int    argc,
         return 0;
     }
 
-    g_set_application_name (_("Midori"));
+    g_set_application_name (_("Chiya"));
     /* Versioned prgname to override menuproxy blacklist */
     g_set_prgname (PACKAGE_NAME "4");
 
