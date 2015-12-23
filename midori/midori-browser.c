@@ -6288,6 +6288,11 @@ midori_browser_init (MidoriBrowser* browser)
 
     /* Statusbar */
     browser->statusbar = gtk_statusbar_new ();
+
+    /* Reduce the height of statusbar. */
+    gtk_widget_set_margin_top(browser->statusbar, 0);
+    gtk_widget_set_margin_bottom(browser->statusbar, 0);
+
     browser->statusbar_contents =
         gtk_statusbar_get_message_area (GTK_STATUSBAR (browser->statusbar));
     gtk_box_pack_start (GTK_BOX (vbox), browser->statusbar, FALSE, FALSE, 0);
