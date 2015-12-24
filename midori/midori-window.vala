@@ -149,13 +149,13 @@ namespace Midori {
                         widget = ((Gtk.Bin)widget).get_child ();
                     if (name == "Location") {
                         widget.set ("margin-top", 1, "margin-bottom", 1);
-                        ((Gtk.Entry)widget).width_chars = 36;
+                        // ((Gtk.Entry)widget).width_chars = 36;
                         headerbar.custom_title = toolitem;
                         headerbar.custom_title.set (
                             "margin-start", 25, "margin-end", 25,
                             "margin-top", 5, "margin-bottom", 5);
                     } else if (name == "Search") {
-                        ((Gtk.Entry)widget).width_chars = 12;
+                        ((Gtk.Entry)widget).width_chars = 18;
                         tail.append (toolitem);
                     } else if (all_actions.index_of (name) > all_actions.index_of ("Location"))
                         tail.append (toolitem);

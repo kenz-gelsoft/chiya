@@ -8,7 +8,8 @@ if ("${CMAKE_MAJOR_VERSION}.${CMAKE_MINOR_VERSION}.${CMAKE_PATCH_VERSION}" VERSI
     cmake_policy(SET CMP0002 OLD)
 endif ()
 project(midori C)
-add_definitions("-DPACKAGE_NAME=\"${CMAKE_PROJECT_NAME}\"")
+set(PROGRAM_NAME "chiya")
+add_definitions("-DPACKAGE_NAME=\"${PROGRAM_NAME}\"")
 add_definitions("-DPACKAGE_BUGREPORT=\"https://bugs.launchpad.net/midori\"")
 
 set(VERSION 0.5.11)
